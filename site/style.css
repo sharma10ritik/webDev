@@ -1,0 +1,39 @@
+body{
+  background-color:#CEE5D0;
+}
+img{
+  background-color: green;
+}
+hr{
+  border-style: dotted none none ;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 4%;
+
+}
+
+.image{
+  background-color: gold;
+  width: 210px;
+  border-radius: 50%;
+  height: auto;
+}
+table{
+  border-style: none;
+
+}
+
+img{
+  height: 200;
+}
+h2{
+  color: #16213E;
+}
+h3{
+  color: #16213E;
+}
+h1:hover{
+
+  color: green;
+}
